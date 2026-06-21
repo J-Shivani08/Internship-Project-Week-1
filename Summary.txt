@@ -1,0 +1,13 @@
+Based on the data analysis, overall material quality and total above-ground living area emerged as the strongest drivers of house prices. The linear regression model proved to be highly dependable in plain terms, successfully predicting around 85% of the price variations and missing actual values by only a narrow margin. Surprisingly, the data revealed that the age of the house had a much smaller negative impact on price than anticipated, provided the property maintained a high quality rating. Consequently, it is recommended that real estate businesses advise sellers to focus budget on high-finish interior remodeling rather than worrying about the property's age, as modernizing key living spaces yields the highest return on investment.
+
+Q1: Which features influence house price the most? 
+A: The total living area (square footage) and premium amenities—specifically the presence of an air conditioning system—emerged as the strongest features influencing house prices in the dataset.
+
+Q2: How accurate was your model (in plain terms)? 
+A: The models proved to be quite reliable for predicting real estate values. The Random Forest Regressor performed the best, capturing roughly 62% of the variations in housing prices (R^2 \approx. 0.62), which means its predictions are generally close to actual market trends and clearly outperformed the standard Linear Regression model.
+
+Q3: What surprised you in the data? 
+A: What surprised me most was the massive price premium associated purely with air conditioning. The data showed that buyers place an unexpectedly high financial value on climate control, making it a much stronger price driver than several other physical or structural features of the home.
+
+Q4: What is your recommendation for a real estate business based on your findings? 
+A: Based on these findings, I recommend that real estate companies advise sellers to focus their pre-listing budgets on adding central air conditioning and optimizing usable floor layouts rather than over-investing in other minor renovations, as these two features deliver the most direct and reliable boost to a property's market value.
